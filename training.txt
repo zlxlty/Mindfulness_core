@@ -1,0 +1,298 @@
+train loss: 1.0581600326363758
+train acc:0.591846
+test loss: 1.01146858676951
+test acc:0.595745
+
+
+train loss: 0.8408374039716618
+train acc:0.762545
+test loss: 0.9739065309788318
+test acc:0.62234
+
+
+train loss: 0.7254017684408414
+train acc:0.882168
+test loss: 0.8935924641629482
+test acc:0.700354
+
+
+train loss: 0.6724447665675994
+train acc:0.928763
+test loss: 0.9363078753998939
+test acc:0.656028
+
+
+train loss: 0.6561929631617761
+train acc:0.942204
+test loss: 0.9760307644275908
+test acc:0.615248
+
+
+train loss: 0.6447174507443623
+train acc:0.949821
+test loss: 0.8397226244845288
+test acc:0.751773
+
+
+train loss: 0.6324559251467387
+train acc:0.960573
+test loss: 0.8450956725059672
+test acc:0.739362
+
+
+train loss: 0.626878256759336
+train acc:0.962814
+test loss: 0.87779896563672
+test acc:0.698582
+
+
+train loss: 0.6162796264053673
+train acc:0.97043
+test loss: 0.8638802754118088
+test acc:0.712766
+
+
+train loss: 0.6180555012918287
+train acc:0.967294
+test loss: 0.847674826358227
+test acc:0.73227
+
+
+train loss: 0.6116164474077123
+train acc:0.971774
+test loss: 0.8173263516831906
+test acc:0.760638
+
+
+train loss: 0.6042784965166481
+train acc:0.976254
+test loss: 0.840293695317938
+test acc:0.735816
+
+
+train loss: 0.6022439906674046
+train acc:0.978943
+test loss: 0.8767189459597811
+test acc:0.691489
+
+
+train loss: 0.60586083928744
+train acc:0.973566
+test loss: 0.8224254504163214
+test acc:0.753546
+
+
+train loss: 0.6002568025742808
+train acc:0.977151
+test loss: 0.8206794122432141
+test acc:0.751773
+
+
+train loss: 0.5987518795074955
+train acc:0.978943
+test loss: 0.8322878213638955
+test acc:0.737589
+
+
+train loss: 0.5912850361357453
+train acc:0.985663
+test loss: 0.8406024638642656
+test acc:0.730496
+
+
+train loss: 0.5954809156797265
+train acc:0.980287
+test loss: 0.816019150804966
+test acc:0.757092
+
+
+train loss: 0.5939132119378736
+train acc:0.981183
+test loss: 0.8183643538901146
+test acc:0.751773
+
+
+train loss: 0.5904286769769524
+train acc:0.983423
+test loss: 0.8165143360482886
+test acc:0.751773
+
+
+train loss: 0.5853470999707457
+train acc:0.988799
+test loss: 0.8046907757190948
+test acc:0.762411
+
+
+train loss: 0.5799100104198661
+train acc:0.992832
+test loss: 0.8016914306802952
+test acc:0.765957
+
+
+train loss: 0.584131375756315
+train acc:0.987007
+test loss: 0.8443020848517723
+test acc:0.716312
+
+
+train loss: 0.5852966664298889
+train acc:0.984319
+test loss: 0.881650318490698
+test acc:0.687943
+
+
+train loss: 0.594871054093043
+train acc:0.975358
+test loss: 0.813357745079284
+test acc:0.751773
+
+
+train loss: 0.5831774175167084
+train acc:0.987007
+test loss: 0.7866656704151884
+test acc:0.780142
+
+
+train loss: 0.5814964713588837
+train acc:0.991039
+test loss: 0.8200660893257629
+test acc:0.744681
+
+
+train loss: 0.5749173356640723
+train acc:0.99552
+test loss: 0.7628399996047325
+test acc:0.804965
+
+
+train loss: 0.5703598010924554
+train acc:0.99776
+test loss: 0.8044711605031439
+test acc:0.758865
+
+
+train loss: 0.5681181569253245
+train acc:0.998208
+test loss: 0.7865425830191755
+test acc:0.783688
+
+
+train loss: 0.5673823266900996
+train acc:0.999104
+test loss: 0.7683134319934439
+test acc:0.79078
+
+
+train loss: 0.5839486404131817
+train acc:0.982527
+test loss: 0.7465871940267846
+test acc:0.817376
+
+
+train loss: 0.5741038283994121
+train acc:0.993728
+test loss: 0.8057037731434437
+test acc:0.755319
+
+
+train loss: 0.5682091136132518
+train acc:0.99776
+test loss: 0.7905856206061992
+test acc:0.769504
+
+
+train loss: 0.5752282815594827
+train acc:0.989247
+test loss: 0.8011043997521096
+test acc:0.758865
+
+
+train loss: 0.568887823371477
+train acc:0.996416
+test loss: 0.7552438505152439
+test acc:0.806738
+
+
+train loss: 0.5660294630835133
+train acc:0.998208
+test loss: 0.7483149386466817
+test acc:0.806738
+
+
+train loss: 0.5631897327720478
+train acc:0.999552
+test loss: 0.793862021983938
+test acc:0.757092
+
+
+train loss: 0.561968147113759
+train acc:0.999552
+test loss: 0.7921916043504755
+test acc:0.757092
+
+
+train loss: 0.5610445119360442
+train acc:0.999552
+test loss: 0.7742526379037411
+test acc:0.780142
+
+
+train loss: 0.5604918025514131
+train acc:0.999552
+test loss: 0.7747568691030462
+test acc:0.781915
+
+
+train loss: 0.561205425249633
+train acc:0.999104
+test loss: 0.8098597323640864
+test acc:0.739362
+
+
+train loss: 0.5619152092164562
+train acc:0.998208
+test loss: 0.7820125957752796
+test acc:0.77305
+
+
+train loss: 0.5636705256277516
+train acc:0.996416
+test loss: 0.8047895469564073
+test acc:0.748227
+
+
+train loss: 0.5917401352236348
+train acc:0.973118
+test loss: 0.7253965190116395
+test acc:0.833333
+
+
+train loss: 0.5744641445657258
+train acc:0.990591
+test loss: 0.7059490629967223
+test acc:0.852837
+
+
+train loss: 0.5666901004570787
+train acc:0.99776
+test loss: 0.7977683239794792
+test acc:0.764184
+
+
+train loss: 0.5634217002699452
+train acc:0.999104
+test loss: 0.7557748974637782
+test acc:0.799645
+
+
+train loss: 0.5617661937590568
+train acc:0.999552
+test loss: 0.7539766722537101
+test acc:0.799645
+
+
+train loss: 0.5608055415332959
+train acc:0.999552
+test loss: 0.751632164133356
+test acc:0.808511
